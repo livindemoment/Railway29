@@ -74,5 +74,5 @@ CREATE TABLE IF NOT EXISTS `Exam`(
 
 CREATE TABLE IF NOT EXISTS `ExamQuestion`(
 ExamID INT,
-Question INT
+QuestionID INT
 );
